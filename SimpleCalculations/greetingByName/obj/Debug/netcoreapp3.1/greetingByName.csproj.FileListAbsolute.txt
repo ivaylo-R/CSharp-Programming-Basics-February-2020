@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\greetingByName\bin\Debug\netcoreapp3.1\greetingByName.exe
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\greetingByName\bin\Debug\netcoreapp3.1\greetingByName.deps.json
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\greetingByName\bin\Debug\netcoreapp3.1\greetingByName.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\greetingByName\bin\Debug\netcoreapp3.1\greetingByName.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\greetingByName\bin\Debug\netcoreapp3.1\greetingByName.dll
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\greetingByName\bin\Debug\netcoreapp3.1\greetingByName.pdb
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\greetingByName\obj\Debug\netcoreapp3.1\greetingByName.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\greetingByName\obj\Debug\netcoreapp3.1\greetingByName.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\greetingByName\obj\Debug\netcoreapp3.1\greetingByName.dll
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\greetingByName\obj\Debug\netcoreapp3.1\greetingByName.pdb
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\greetingByName\obj\Debug\netcoreapp3.1\greetingByName.csprojAssemblyReference.cache

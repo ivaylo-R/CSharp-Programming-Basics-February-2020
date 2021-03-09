@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\MoreExConditionalStatements\02. Sleepy Tom Cat\bin\Debug\netcoreapp3.1\02. Sleepy Tom Cat.exe
+C:\Users\Ana-Maria\source\repos\MoreExConditionalStatements\02. Sleepy Tom Cat\bin\Debug\netcoreapp3.1\02. Sleepy Tom Cat.deps.json
+C:\Users\Ana-Maria\source\repos\MoreExConditionalStatements\02. Sleepy Tom Cat\bin\Debug\netcoreapp3.1\02. Sleepy Tom Cat.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\MoreExConditionalStatements\02. Sleepy Tom Cat\bin\Debug\netcoreapp3.1\02. Sleepy Tom Cat.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\MoreExConditionalStatements\02. Sleepy Tom Cat\bin\Debug\netcoreapp3.1\02. Sleepy Tom Cat.dll
+C:\Users\Ana-Maria\source\repos\MoreExConditionalStatements\02. Sleepy Tom Cat\bin\Debug\netcoreapp3.1\02. Sleepy Tom Cat.pdb
+C:\Users\Ana-Maria\source\repos\MoreExConditionalStatements\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\MoreExConditionalStatements\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\MoreExConditionalStatements\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\MoreExConditionalStatements\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.dll
+C:\Users\Ana-Maria\source\repos\MoreExConditionalStatements\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.pdb

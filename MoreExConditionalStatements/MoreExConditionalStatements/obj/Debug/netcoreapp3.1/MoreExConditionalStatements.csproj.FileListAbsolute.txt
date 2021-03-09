@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\MoreExConditionalStatements\MoreExConditionalStatements\bin\Debug\netcoreapp3.1\MoreExConditionalStatements.exe
+C:\Users\Ana-Maria\source\repos\MoreExConditionalStatements\MoreExConditionalStatements\bin\Debug\netcoreapp3.1\MoreExConditionalStatements.deps.json
+C:\Users\Ana-Maria\source\repos\MoreExConditionalStatements\MoreExConditionalStatements\bin\Debug\netcoreapp3.1\MoreExConditionalStatements.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\MoreExConditionalStatements\MoreExConditionalStatements\bin\Debug\netcoreapp3.1\MoreExConditionalStatements.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\MoreExConditionalStatements\MoreExConditionalStatements\bin\Debug\netcoreapp3.1\MoreExConditionalStatements.dll
+C:\Users\Ana-Maria\source\repos\MoreExConditionalStatements\MoreExConditionalStatements\bin\Debug\netcoreapp3.1\MoreExConditionalStatements.pdb
+C:\Users\Ana-Maria\source\repos\MoreExConditionalStatements\MoreExConditionalStatements\obj\Debug\netcoreapp3.1\MoreExConditionalStatements.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\MoreExConditionalStatements\MoreExConditionalStatements\obj\Debug\netcoreapp3.1\MoreExConditionalStatements.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\MoreExConditionalStatements\MoreExConditionalStatements\obj\Debug\netcoreapp3.1\MoreExConditionalStatements.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\MoreExConditionalStatements\MoreExConditionalStatements\obj\Debug\netcoreapp3.1\MoreExConditionalStatements.dll
+C:\Users\Ana-Maria\source\repos\MoreExConditionalStatements\MoreExConditionalStatements\obj\Debug\netcoreapp3.1\MoreExConditionalStatements.pdb

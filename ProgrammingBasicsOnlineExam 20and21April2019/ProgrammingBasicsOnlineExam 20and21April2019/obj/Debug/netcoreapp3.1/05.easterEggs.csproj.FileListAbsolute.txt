@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineExam 20and21April2019\ProgrammingBasicsOnlineExam 20and21April2019\bin\Debug\netcoreapp3.1\05.easterEggs.exe
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineExam 20and21April2019\ProgrammingBasicsOnlineExam 20and21April2019\bin\Debug\netcoreapp3.1\05.easterEggs.deps.json
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineExam 20and21April2019\ProgrammingBasicsOnlineExam 20and21April2019\bin\Debug\netcoreapp3.1\05.easterEggs.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineExam 20and21April2019\ProgrammingBasicsOnlineExam 20and21April2019\bin\Debug\netcoreapp3.1\05.easterEggs.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineExam 20and21April2019\ProgrammingBasicsOnlineExam 20and21April2019\bin\Debug\netcoreapp3.1\05.easterEggs.dll
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineExam 20and21April2019\ProgrammingBasicsOnlineExam 20and21April2019\bin\Debug\netcoreapp3.1\05.easterEggs.pdb
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineExam 20and21April2019\ProgrammingBasicsOnlineExam 20and21April2019\obj\Debug\netcoreapp3.1\05.easterEggs.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineExam 20and21April2019\ProgrammingBasicsOnlineExam 20and21April2019\obj\Debug\netcoreapp3.1\05.easterEggs.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineExam 20and21April2019\ProgrammingBasicsOnlineExam 20and21April2019\obj\Debug\netcoreapp3.1\05.easterEggs.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineExam 20and21April2019\ProgrammingBasicsOnlineExam 20and21April2019\obj\Debug\netcoreapp3.1\05.easterEggs.dll
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineExam 20and21April2019\ProgrammingBasicsOnlineExam 20and21April2019\obj\Debug\netcoreapp3.1\05.easterEggs.pdb

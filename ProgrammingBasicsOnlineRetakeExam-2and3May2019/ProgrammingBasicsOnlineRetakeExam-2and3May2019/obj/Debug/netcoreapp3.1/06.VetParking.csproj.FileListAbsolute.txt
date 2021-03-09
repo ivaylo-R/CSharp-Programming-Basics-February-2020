@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineRetakeExam-2and3May2019\ProgrammingBasicsOnlineRetakeExam-2and3May2019\bin\Debug\netcoreapp3.1\06.VetParking.exe
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineRetakeExam-2and3May2019\ProgrammingBasicsOnlineRetakeExam-2and3May2019\bin\Debug\netcoreapp3.1\06.VetParking.deps.json
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineRetakeExam-2and3May2019\ProgrammingBasicsOnlineRetakeExam-2and3May2019\bin\Debug\netcoreapp3.1\06.VetParking.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineRetakeExam-2and3May2019\ProgrammingBasicsOnlineRetakeExam-2and3May2019\bin\Debug\netcoreapp3.1\06.VetParking.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineRetakeExam-2and3May2019\ProgrammingBasicsOnlineRetakeExam-2and3May2019\bin\Debug\netcoreapp3.1\06.VetParking.dll
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineRetakeExam-2and3May2019\ProgrammingBasicsOnlineRetakeExam-2and3May2019\bin\Debug\netcoreapp3.1\06.VetParking.pdb
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineRetakeExam-2and3May2019\ProgrammingBasicsOnlineRetakeExam-2and3May2019\obj\Debug\netcoreapp3.1\06.VetParking.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineRetakeExam-2and3May2019\ProgrammingBasicsOnlineRetakeExam-2and3May2019\obj\Debug\netcoreapp3.1\06.VetParking.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineRetakeExam-2and3May2019\ProgrammingBasicsOnlineRetakeExam-2and3May2019\obj\Debug\netcoreapp3.1\06.VetParking.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineRetakeExam-2and3May2019\ProgrammingBasicsOnlineRetakeExam-2and3May2019\obj\Debug\netcoreapp3.1\06.VetParking.dll
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineRetakeExam-2and3May2019\ProgrammingBasicsOnlineRetakeExam-2and3May2019\obj\Debug\netcoreapp3.1\06.VetParking.pdb

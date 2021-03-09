@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineRetakeExam-2and3May2019\05.divisionWithoutReminder\bin\Debug\netcoreapp3.1\05.divisionWithoutReminder.exe
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineRetakeExam-2and3May2019\05.divisionWithoutReminder\bin\Debug\netcoreapp3.1\05.divisionWithoutReminder.deps.json
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineRetakeExam-2and3May2019\05.divisionWithoutReminder\bin\Debug\netcoreapp3.1\05.divisionWithoutReminder.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineRetakeExam-2and3May2019\05.divisionWithoutReminder\bin\Debug\netcoreapp3.1\05.divisionWithoutReminder.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineRetakeExam-2and3May2019\05.divisionWithoutReminder\bin\Debug\netcoreapp3.1\05.divisionWithoutReminder.dll
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineRetakeExam-2and3May2019\05.divisionWithoutReminder\bin\Debug\netcoreapp3.1\05.divisionWithoutReminder.pdb
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineRetakeExam-2and3May2019\05.divisionWithoutReminder\obj\Debug\netcoreapp3.1\05.divisionWithoutReminder.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineRetakeExam-2and3May2019\05.divisionWithoutReminder\obj\Debug\netcoreapp3.1\05.divisionWithoutReminder.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineRetakeExam-2and3May2019\05.divisionWithoutReminder\obj\Debug\netcoreapp3.1\05.divisionWithoutReminder.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineRetakeExam-2and3May2019\05.divisionWithoutReminder\obj\Debug\netcoreapp3.1\05.divisionWithoutReminder.dll
+C:\Users\Ana-Maria\source\repos\ProgrammingBasicsOnlineRetakeExam-2and3May2019\05.divisionWithoutReminder\obj\Debug\netcoreapp3.1\05.divisionWithoutReminder.pdb

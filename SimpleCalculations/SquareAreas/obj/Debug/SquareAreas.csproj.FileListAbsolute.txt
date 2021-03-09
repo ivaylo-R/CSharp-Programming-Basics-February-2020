@@ -1,0 +1,6 @@
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\SquareAreas\bin\Debug\SquareAreas.exe.config
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\SquareAreas\bin\Debug\SquareAreas.exe
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\SquareAreas\bin\Debug\SquareAreas.pdb
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\SquareAreas\obj\Debug\SquareAreas.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\SquareAreas\obj\Debug\SquareAreas.exe
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\SquareAreas\obj\Debug\SquareAreas.pdb

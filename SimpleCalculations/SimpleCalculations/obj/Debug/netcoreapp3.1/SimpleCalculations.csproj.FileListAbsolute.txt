@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\SimpleCalculations\obj\Debug\netcoreapp3.1\SimpleCalculations.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\SimpleCalculations\obj\Debug\netcoreapp3.1\SimpleCalculations.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\SimpleCalculations\obj\Debug\netcoreapp3.1\SimpleCalculations.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\SimpleCalculations\bin\Debug\netcoreapp3.1\SimpleCalculations.exe
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\SimpleCalculations\bin\Debug\netcoreapp3.1\SimpleCalculations.deps.json
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\SimpleCalculations\bin\Debug\netcoreapp3.1\SimpleCalculations.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\SimpleCalculations\bin\Debug\netcoreapp3.1\SimpleCalculations.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\SimpleCalculations\bin\Debug\netcoreapp3.1\SimpleCalculations.dll
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\SimpleCalculations\bin\Debug\netcoreapp3.1\SimpleCalculations.pdb
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\SimpleCalculations\obj\Debug\netcoreapp3.1\SimpleCalculations.dll
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\SimpleCalculations\obj\Debug\netcoreapp3.1\SimpleCalculations.pdb

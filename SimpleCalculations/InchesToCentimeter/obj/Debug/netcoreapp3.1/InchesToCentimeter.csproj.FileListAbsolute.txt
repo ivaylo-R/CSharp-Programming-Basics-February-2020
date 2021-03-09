@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\InchesToCentimeter\bin\Debug\netcoreapp3.1\InchesToCentimeter.exe
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\InchesToCentimeter\bin\Debug\netcoreapp3.1\InchesToCentimeter.deps.json
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\InchesToCentimeter\bin\Debug\netcoreapp3.1\InchesToCentimeter.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\InchesToCentimeter\bin\Debug\netcoreapp3.1\InchesToCentimeter.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\InchesToCentimeter\bin\Debug\netcoreapp3.1\InchesToCentimeter.dll
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\InchesToCentimeter\bin\Debug\netcoreapp3.1\InchesToCentimeter.pdb
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\InchesToCentimeter\obj\Debug\netcoreapp3.1\InchesToCentimeter.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\InchesToCentimeter\obj\Debug\netcoreapp3.1\InchesToCentimeter.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\InchesToCentimeter\obj\Debug\netcoreapp3.1\InchesToCentimeter.dll
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\InchesToCentimeter\obj\Debug\netcoreapp3.1\InchesToCentimeter.pdb
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\InchesToCentimeter\obj\Debug\netcoreapp3.1\InchesToCentimeter.csprojAssemblyReference.cache

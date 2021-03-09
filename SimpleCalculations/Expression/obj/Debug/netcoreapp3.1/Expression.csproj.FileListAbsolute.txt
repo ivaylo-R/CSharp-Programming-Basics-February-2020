@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\Expression\bin\Debug\netcoreapp3.1\Expression.exe
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\Expression\bin\Debug\netcoreapp3.1\Expression.deps.json
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\Expression\bin\Debug\netcoreapp3.1\Expression.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\Expression\bin\Debug\netcoreapp3.1\Expression.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\Expression\bin\Debug\netcoreapp3.1\Expression.dll
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\Expression\bin\Debug\netcoreapp3.1\Expression.pdb
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\Expression\obj\Debug\netcoreapp3.1\Expression.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\Expression\obj\Debug\netcoreapp3.1\Expression.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\Expression\obj\Debug\netcoreapp3.1\Expression.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\Expression\obj\Debug\netcoreapp3.1\Expression.dll
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\Expression\obj\Debug\netcoreapp3.1\Expression.pdb

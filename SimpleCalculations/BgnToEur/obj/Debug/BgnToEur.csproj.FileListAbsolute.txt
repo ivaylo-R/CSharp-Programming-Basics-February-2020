@@ -1,0 +1,9 @@
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\BgnToEur\bin\Debug\BgnToEur.exe.config
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\BgnToEur\bin\Debug\BgnToEur.exe
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\BgnToEur\bin\Debug\BgnToEur.pdb
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\BgnToEur\obj\Debug\BgnToEur.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\BgnToEur\obj\Debug\BgnToEur.Form1.resources
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\BgnToEur\obj\Debug\BgnToEur.Properties.Resources.resources
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\BgnToEur\obj\Debug\BgnToEur.csproj.GenerateResource.cache
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\BgnToEur\obj\Debug\BgnToEur.exe
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\BgnToEur\obj\Debug\BgnToEur.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\ExamRoomWorkPlaces\bin\Debug\netcoreapp3.1\ExamRoomWorkPlaces.exe
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\ExamRoomWorkPlaces\bin\Debug\netcoreapp3.1\ExamRoomWorkPlaces.deps.json
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\ExamRoomWorkPlaces\bin\Debug\netcoreapp3.1\ExamRoomWorkPlaces.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\ExamRoomWorkPlaces\bin\Debug\netcoreapp3.1\ExamRoomWorkPlaces.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\ExamRoomWorkPlaces\bin\Debug\netcoreapp3.1\ExamRoomWorkPlaces.dll
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\ExamRoomWorkPlaces\bin\Debug\netcoreapp3.1\ExamRoomWorkPlaces.pdb
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\ExamRoomWorkPlaces\obj\Debug\netcoreapp3.1\ExamRoomWorkPlaces.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\ExamRoomWorkPlaces\obj\Debug\netcoreapp3.1\ExamRoomWorkPlaces.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\ExamRoomWorkPlaces\obj\Debug\netcoreapp3.1\ExamRoomWorkPlaces.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\ExamRoomWorkPlaces\obj\Debug\netcoreapp3.1\ExamRoomWorkPlaces.dll
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\ExamRoomWorkPlaces\obj\Debug\netcoreapp3.1\ExamRoomWorkPlaces.pdb

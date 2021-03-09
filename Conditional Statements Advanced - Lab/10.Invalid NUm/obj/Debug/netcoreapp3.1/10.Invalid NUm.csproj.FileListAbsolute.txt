@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced - Lab\10.Invalid NUm\bin\Debug\netcoreapp3.1\10.Invalid NUm.exe
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced - Lab\10.Invalid NUm\bin\Debug\netcoreapp3.1\10.Invalid NUm.deps.json
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced - Lab\10.Invalid NUm\bin\Debug\netcoreapp3.1\10.Invalid NUm.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced - Lab\10.Invalid NUm\bin\Debug\netcoreapp3.1\10.Invalid NUm.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced - Lab\10.Invalid NUm\bin\Debug\netcoreapp3.1\10.Invalid NUm.dll
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced - Lab\10.Invalid NUm\bin\Debug\netcoreapp3.1\10.Invalid NUm.pdb
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced - Lab\10.Invalid NUm\obj\Debug\netcoreapp3.1\10.Invalid NUm.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced - Lab\10.Invalid NUm\obj\Debug\netcoreapp3.1\10.Invalid NUm.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced - Lab\10.Invalid NUm\obj\Debug\netcoreapp3.1\10.Invalid NUm.dll
+C:\Users\Ana-Maria\source\repos\Conditional Statements Advanced - Lab\10.Invalid NUm\obj\Debug\netcoreapp3.1\10.Invalid NUm.pdb

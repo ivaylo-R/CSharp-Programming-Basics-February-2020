@@ -1,0 +1,2 @@
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\Fruits\obj\Debug\netcoreapp3.1\Fruits.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\Fruits\obj\Debug\netcoreapp3.1\Fruits.AssemblyInfo.cs

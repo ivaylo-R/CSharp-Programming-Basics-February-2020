@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\calculating\bin\Debug\netcoreapp3.1\calculating.exe
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\calculating\bin\Debug\netcoreapp3.1\calculating.deps.json
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\calculating\bin\Debug\netcoreapp3.1\calculating.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\calculating\bin\Debug\netcoreapp3.1\calculating.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\calculating\bin\Debug\netcoreapp3.1\calculating.dll
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\calculating\bin\Debug\netcoreapp3.1\calculating.pdb
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\calculating\obj\Debug\netcoreapp3.1\calculating.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\calculating\obj\Debug\netcoreapp3.1\calculating.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\calculating\obj\Debug\netcoreapp3.1\calculating.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\calculating\obj\Debug\netcoreapp3.1\calculating.dll
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\calculating\obj\Debug\netcoreapp3.1\calculating.pdb

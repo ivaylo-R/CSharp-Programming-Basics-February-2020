@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\MathPI\bin\Debug\netcoreapp3.1\MathPI.exe
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\MathPI\bin\Debug\netcoreapp3.1\MathPI.deps.json
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\MathPI\bin\Debug\netcoreapp3.1\MathPI.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\MathPI\bin\Debug\netcoreapp3.1\MathPI.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\MathPI\bin\Debug\netcoreapp3.1\MathPI.dll
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\MathPI\bin\Debug\netcoreapp3.1\MathPI.pdb
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\MathPI\obj\Debug\netcoreapp3.1\MathPI.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\MathPI\obj\Debug\netcoreapp3.1\MathPI.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\MathPI\obj\Debug\netcoreapp3.1\MathPI.dll
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\MathPI\obj\Debug\netcoreapp3.1\MathPI.pdb
+C:\Users\Ana-Maria\source\repos\SimpleCalculations\MathPI\obj\Debug\netcoreapp3.1\MathPI.csprojAssemblyReference.cache
